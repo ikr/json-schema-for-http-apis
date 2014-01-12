@@ -1,4 +1,3 @@
-json-schema-for-http-apis
-=========================
+# JSON Schema for HTTP API-s
 
-My lightning talk at the joint meetup of JSZurich and Webtuesday on 14.01.2014
+- Building large systems quote
