@@ -14,7 +14,7 @@ My lightning talk at the joint meet-up of JSZurich and Webtuesday on 14.01.2014
 
 - Benefits
 
-- Problems
+- Drawbacks
 
 - JSON schema to the rescue
 
