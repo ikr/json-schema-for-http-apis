@@ -23,3 +23,8 @@ My lightning talk at the joint meet-up of JSZurich and Webtuesday on 14.01.2014
 - Exposing over HTTP
 
 - Automatic verification
+
+## Links
+
+- Main JSON Schema [web site](http://json-schema.org/)
+- [Schema validator](https://github.com/geraintluff/tv4) in JavaScript
